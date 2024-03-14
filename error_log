@@ -1,0 +1,13 @@
+[25-Jan-2024 05:57:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mahbubha/public_html/print.php:10) in /home/mahbubha/public_html/TCPDF/tcpdf.php on line 7667
+[25-Jan-2024 05:58:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mahbubha/public_html/print.php:10) in /home/mahbubha/public_html/TCPDF/tcpdf.php on line 7667
+[25-Jan-2024 06:16:58 UTC] PHP Warning:  unlink(uploaded_img/bash_and_lucy-2.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:17:23 UTC] PHP Warning:  unlink(uploaded_img/be_well_bee.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:18:26 UTC] PHP Warning:  unlink(uploaded_img/red_queen.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:19:03 UTC] PHP Warning:  unlink(uploaded_img/the_world.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:20:15 UTC] PHP Warning:  unlink(uploaded_img/the_happy_lemon.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:20:59 UTC] PHP Warning:  unlink(uploaded_img/the_girl_of_ink_and_stars.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:22:01 UTC] PHP Warning:  unlink(uploaded_img/shattered.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:22:07 UTC] PHP Warning:  unlink(uploaded_img/radical_gardening.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:22:13 UTC] PHP Warning:  unlink(uploaded_img/lloyd.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:22:18 UTC] PHP Warning:  unlink(uploaded_img/holy_ghosts.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
+[25-Jan-2024 06:22:25 UTC] PHP Warning:  unlink(uploaded_img/freefall.jpg): No such file or directory in /home/mahbubha/public_html/admin_products.php on line 46
