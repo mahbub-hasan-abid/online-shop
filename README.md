@@ -100,8 +100,13 @@ Contributions to the Boi Mela website are welcome. If you'd like to contribute, 
 Let me know if there's anything else you'd like to add or modify!
 
 ## Contact Information
+
+I am happy to address any questions or provide further assistance that you may require. If you need any information or have any queries, feel free to contact me. I will be glad to be in touch with you.
+
 - **Email**: [mahbubhasanabid00@gmail.com](mailto:mahbubhasanabid00@gmail.com)
 - **Telegram**: [@mhabid00](https://t.me/mhabid00)
+- **WhatsApp**: [01736299581](https://wa.me/8801736299581)
+- **LinkedIn**: [Mahbub Hasan Abid](https://www.linkedin.com/in/mahbub-hasan-abid/)
 
 
 ## Screenshorts
