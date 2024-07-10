@@ -1,4 +1,4 @@
-# Boi Mela - Bookstore Website
+# Online Shop
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -24,7 +24,7 @@
 - [Screenshorts](#screenshorts)
 
 ## Introduction
-**Boi Mela** is an online bookstore designed for  literature enthusiasts. This website allows users to browse, search, and purchase books. Administrators can manage the inventory, orders, and user messages through an admin dashboard.
+This online shop is designed for  literature enthusiasts. This website allows users to browse, search, and purchase books. Administrators can manage the inventory, orders, and user messages through an admin dashboard.
 
 ## Features
 
