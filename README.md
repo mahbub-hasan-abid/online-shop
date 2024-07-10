@@ -105,7 +105,7 @@ I am happy to address any questions or provide further assistance that you may r
 
 - **Email**: [mahbubhasanabid00@gmail.com](mailto:mahbubhasanabid00@gmail.com)
 - **Telegram**: [@mhabid00](https://t.me/mhabid00)
-- **WhatsApp**: [01736299581](https://wa.me/8801736299581)
+- **WhatsApp**: [Click here](https://wa.me/8801736299581)
 - **LinkedIn**: [Mahbub Hasan Abid](https://www.linkedin.com/in/mahbub-hasan-abid/)
 
 
