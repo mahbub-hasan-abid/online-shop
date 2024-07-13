@@ -39,7 +39,7 @@ This online shop is designed for  literature enthusiasts. This website allows us
 - Download inoice as pdf
 - Added PayPal sandbox for payment
 - Payment status
-- Admin dashboard for  managing products, orders, users, and messages
+- Admin dashboard for managing products, orders, users, and messages
 
 
 ## Technologies Used
